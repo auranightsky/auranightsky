@@ -1,6 +1,7 @@
 <div align="center">
 
   <h1>AI Convergence Researcher</h1>
+  <p><em>ABC — Always Be Curious</em></p>
 
   <p>
     <strong>M.S. Student</strong>
