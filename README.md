@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**auranightsky/auranightsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>AI Convergence Researcher</h1>
 
-Here are some ideas to get you started:
+  <p>
+    <strong>M.S. Student</strong>
+    &nbsp;|&nbsp;
+    GKS Scholar
+    &nbsp;|&nbsp;
+    Pusan National University
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### About Me
+- Master's student specializing in **AI Convergence** at Pusan National University, South Korea.
+- Global Korea Scholarship (GKS) Scholar 2026.
+
+### Research Interests
+- `Large Language Models` 
+- `Multimodal AI` 
+- `Natural Language Processing` 
+- `Machine Learning` 
+- `Deep Learning`
+- `Computer Vision`
+
+---
+
+<div align="center">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=auranightsky)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
