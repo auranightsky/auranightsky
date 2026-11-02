@@ -1,7 +1,6 @@
 <div align="center">
 
   <h1>AI Convergence Student</h1>
-  <p><em>ABC — Always Be Curious</em></p>
 
   <p>
     <strong>M.S. Student</strong>
@@ -14,6 +13,7 @@
 </div>
 
 ### About Me
+- ABC — Always Be Curious.
 - Master's student specializing in **AI Convergence** at Pusan National University, South Korea.
 - Global Korea Scholarship (GKS) Scholar 2026.
 
