@@ -2,14 +2,6 @@
 
   <h1>AI Convergence Student</h1>
 
-  <p>
-    <strong>M.S. Student</strong>
-    &nbsp;|&nbsp;
-    GKS Scholar
-    &nbsp;|&nbsp;
-    Pusan National University
-  </p>
-
 </div>
 
 ### About Me
