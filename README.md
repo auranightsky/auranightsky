@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>AI Convergence Student</h1>
+  <h1>Hello, I am Meng Socheata</h1>
 
 </div>
 
